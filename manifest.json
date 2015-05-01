@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "Translate phrase or string between 42 languages.",
+    "framework": "ubuntu-sdk-14.10-qml",
+    "hooks": {
+        "Translate": {
+            "apparmor": "Translate.apparmor",
+            "desktop": "Translate.desktop"
+        }
+    },
+    "maintainer": "Turan Mahmudov <turan.mahmudov@gmail.com>",
+    "name": "com.ubuntu.developer.turan.mahmudov.translationapp",
+    "title": "Translate",
+    "version": "4.6.2"
+}
