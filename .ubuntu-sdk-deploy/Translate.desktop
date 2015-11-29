@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Translate
+Exec=qmlscene $@ main.qml
+Icon=translate.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#ffffff
+
